@@ -1,50 +1,64 @@
-# EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+EX. No. 4.2 – CUT SECTION OF SOLIDS
 
-## AIM: 
-To create the solid model from given drawing and section the solid model
+AIM
 
-## REQUIREMENTS: 
-1. Autodesk fusion 360
-2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
-
-## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198826239-a3d6ffd5-d409-46b0-ba88-3312e89e9834.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198826244-f377f387-16af-4f89-a57d-1808083ce178.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198826250-0e2f4985-18d7-4a07-8b1e-9c9fab11ea41.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198826257-ccfcfd0c-040a-459e-bb9f-93c375f9177f.png)
-
-7.Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198826270-d55912b8-0a02-4b36-acb2-02e9b4b328fd.png)
-
- 8.Use revolve option to convert 2D to 3D.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
-
-## INPUT:
-
-![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
-
-## OUTPUT:
+To create the solid model from the given drawing and section the solid model using Autodesk Fusion
+360.
 
 
-## RESULT:
-Thus, the cut section for solid model is created.
+
+REQUIREMENTS
+
+• Autodesk Fusion 360
+
+• Windows 10 operating system
+
+• 16 GB RAM (integrated graphics with 1 GB or more recommended)
+
+• Internet connection: 2.5 Mbps or faster download and 500 Kbps or faster upload
 
 
+
+PROCEDURE
+
+1. Open Autodesk Fusion 360 and create a new design file.
+
+2. Select the Create Sketch option and choose a suitable plane for sketching.
+
+3. Use sketching tools such as Line, Circle and Arc to draw the given profile.
+
+4. Apply the required sketch dimensions and modify the geometry using suitable sketch tools.
+
+5. Use the Inspect feature to check and measure the dimensions of the sketch.
+
+6. Click Finish Sketch to complete the 2D sketch.
+
+7. Use the Extrude command wherever required to create the 3D solid features.
+
+8. Use the Revolve command to convert the required 2D profile into a 3D solid.
+
+9. Create the required cut section of the solid model and inspect the sectional view.
+
+10. Save the completed model and prepare the drawing sheet with the required views.
+
+
+
+INPUT
+
+Given orthographic drawing used as the input for creating the solid model.
+
+<img width="801" height="572" alt="Screenshot 2026-11-25 225738" src="https://github.com/user-attachments/assets/8494d497-51d1-4e01-acb1-91583ba3aa4a" />
+
+
+OUTPUT
+
+Final 3D solid model created in Autodesk Fusion 360.
+
+<img width="1911" height="915" alt="Screenshot 2026-11-25 182317" src="https://github.com/user-attachments/assets/2bbd6401-0eb4-4c11-ac46-1054f0f02f65" />
+<img width="1137" height="780" alt="Screenshot 2026-11-25 183459" src="https://github.com/user-attachments/assets/b8b5c2f6-e8ea-4ac0-b6ec-c381f578e4b1" />
+
+
+RESULT
+
+Thus, the solid model was created from the given drawing and the cut section of the solid model was
+obtained using Autodesk Fusion 360.
